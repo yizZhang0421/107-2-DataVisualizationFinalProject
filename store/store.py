@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests as req
 
 from geopy import geocoders
-g_api_key = 'AIzaSyBwHB-NjjRNdh3mLCmQbDSkqjN69be6xZc'   # 需啟動Geocoding API服務
+g_api_key = '***************************************'   # 需啟動Geocoding API服務
 g = geocoders.GoogleV3(g_api_key)
 
 
