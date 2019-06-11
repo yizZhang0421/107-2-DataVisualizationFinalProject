@@ -1,0 +1,982 @@
+<tbody>
+ <tr class="pre">
+  <th scope="row">
+   Sat
+   <time>
+    6/1
+   </time>
+  </th>
+  <td>
+   27¢X/19¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/16¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Sun
+   <time>
+    6/2
+   </time>
+  </th>
+  <td>
+   25¢X/20¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/17¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Mon
+   <time>
+    6/3
+   </time>
+  </th>
+  <td>
+   30¢X/19¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/17¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Tue
+   <time>
+    6/4
+   </time>
+  </th>
+  <td>
+   30¢X/21¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/17¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Wed
+   <time>
+    6/5
+   </time>
+  </th>
+  <td>
+   30¢X/22¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/17¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Thu
+   <time>
+    6/6
+   </time>
+  </th>
+  <td>
+   31¢X/22¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/17¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Fri
+   <time>
+    6/7
+   </time>
+  </th>
+  <td>
+   27¢X/19¢X
+  </td>
+  <td>
+   36
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   25¢X/17¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Sat
+   <time>
+    6/8
+   </time>
+  </th>
+  <td>
+   25¢X/20¢X
+  </td>
+  <td>
+   1
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   26¢X/18¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Sun
+   <time>
+    6/9
+   </time>
+  </th>
+  <td>
+   28¢X/18¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   26¢X/18¢X
+  </td>
+ </tr>
+ <tr class="pre">
+  <th scope="row">
+   Mon
+   <time>
+    6/10
+   </time>
+  </th>
+  <td>
+   25¢X/19¢X
+  </td>
+  <td>
+   3
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   N/A
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td>
+  </td>
+  <td>
+   26¢X/18¢X
+  </td>
+ </tr>
+ <tr class="today lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=1">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=1">
+    Tue
+    <time>
+     6/11
+    </time>
+   </a>
+  </th>
+  <td>
+   27¢X/17¢X
+  </td>
+  <td>
+   18
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-17-s">
+   </div>
+   <p>
+    A shower and t-storm around
+   </p>
+  </td>
+  <td>
+   26¢X/18¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=2">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=2">
+    Wed
+    <time>
+     6/12
+    </time>
+   </a>
+  </th>
+  <td>
+   25¢X/16¢X
+  </td>
+  <td>
+   1
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-17-s">
+   </div>
+   <p>
+    A thunderstorm in spots
+   </p>
+  </td>
+  <td>
+   26¢X/18¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=3">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=3">
+    Thu
+    <time>
+     6/13
+    </time>
+   </a>
+  </th>
+  <td>
+   28¢X/18¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-2-s">
+   </div>
+   <p>
+    Mostly sunny; nice
+   </p>
+  </td>
+  <td>
+   26¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=4">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=4">
+    Fri
+    <time>
+     6/14
+    </time>
+   </a>
+  </th>
+  <td>
+   27¢X/19¢X
+  </td>
+  <td>
+   2
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    Cloudy, a passing shower
+   </p>
+  </td>
+  <td>
+   26¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=5">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=5">
+    Sat
+    <time>
+     6/15
+    </time>
+   </a>
+  </th>
+  <td>
+   26¢X/18¢X
+  </td>
+  <td>
+   3
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-12-s">
+   </div>
+   <p>
+    Mostly cloudy, showers around
+   </p>
+  </td>
+  <td>
+   26¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=6">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=6">
+    Sun
+    <time>
+     6/16
+    </time>
+   </a>
+  </th>
+  <td>
+   26¢X/18¢X
+  </td>
+  <td>
+   2
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-3-s">
+   </div>
+   <p>
+    A thunderstorm in the area
+   </p>
+  </td>
+  <td>
+   26¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=7">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=7">
+    Mon
+    <time>
+     6/17
+    </time>
+   </a>
+  </th>
+  <td>
+   25¢X/18¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-4-s">
+   </div>
+   <p>
+    Sun and areas of high clouds
+   </p>
+  </td>
+  <td>
+   26¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=8">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=8">
+    Tue
+    <time>
+     6/18
+    </time>
+   </a>
+  </th>
+  <td>
+   25¢X/19¢X
+  </td>
+  <td>
+   2
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-13-s">
+   </div>
+   <p>
+    A.M. showers; variable clouds
+   </p>
+  </td>
+  <td>
+   27¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=9">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=9">
+    Wed
+    <time>
+     6/19
+    </time>
+   </a>
+  </th>
+  <td>
+   26¢X/19¢X
+  </td>
+  <td>
+   3
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-14-s">
+   </div>
+   <p>
+    Spotty afternoon showers
+   </p>
+  </td>
+  <td>
+   27¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=10">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=10">
+    Thu
+    <time>
+     6/20
+    </time>
+   </a>
+  </th>
+  <td>
+   28¢X/20¢X
+  </td>
+  <td>
+   2
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-12-s">
+   </div>
+   <p>
+    A little morning rain
+   </p>
+  </td>
+  <td>
+   27¢X/19¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=11">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=11">
+    Fri
+    <time>
+     6/21
+    </time>
+   </a>
+  </th>
+  <td>
+   29¢X/21¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-6-s">
+   </div>
+   <p>
+    Mostly cloudy
+   </p>
+  </td>
+  <td>
+   27¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=12">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=12">
+    Sat
+    <time>
+     6/22
+    </time>
+   </a>
+  </th>
+  <td>
+   29¢X/21¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    A morning shower; cloudy
+   </p>
+  </td>
+  <td>
+   27¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=13">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=13">
+    Sun
+    <time>
+     6/23
+    </time>
+   </a>
+  </th>
+  <td>
+   29¢X/21¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-12-s">
+   </div>
+   <p>
+    A little afternoon rain
+   </p>
+  </td>
+  <td>
+   27¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=14">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=14">
+    Mon
+    <time>
+     6/24
+    </time>
+   </a>
+  </th>
+  <td>
+   27¢X/24¢X
+  </td>
+  <td>
+   1
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    Cloudy, a shower in the p.m.
+   </p>
+  </td>
+  <td>
+   27¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=15">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=15">
+    Tue
+    <time>
+     6/25
+    </time>
+   </a>
+  </th>
+  <td>
+   27¢X/20¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-3-s">
+   </div>
+   <p>
+    Partial sunshine
+   </p>
+  </td>
+  <td>
+   27¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=16">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=16">
+    Wed
+    <time>
+     6/26
+    </time>
+   </a>
+  </th>
+  <td>
+   28¢X/21¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    Plenty of clouds
+   </p>
+  </td>
+  <td>
+   28¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=17">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=17">
+    Thu
+    <time>
+     6/27
+    </time>
+   </a>
+  </th>
+  <td>
+   28¢X/21¢X
+  </td>
+  <td>
+   0
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    Considerable clouds
+   </p>
+  </td>
+  <td>
+   28¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=18">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=18">
+    Fri
+    <time>
+     6/28
+    </time>
+   </a>
+  </th>
+  <td>
+   28¢X/23¢X
+  </td>
+  <td>
+   2
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    Overcast, a t-storm in spots
+   </p>
+  </td>
+  <td>
+   28¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=19">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=19">
+    Sat
+    <time>
+     6/29
+    </time>
+   </a>
+  </th>
+  <td>
+   29¢X/23¢X
+  </td>
+  <td>
+   2
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-6-s">
+   </div>
+   <p>
+    A morning shower
+   </p>
+  </td>
+  <td>
+   28¢X/20¢X
+  </td>
+ </tr>
+ <tr class="lo calendar-list-cl-tr cl hv" data-href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=20">
+  <th scope="row">
+   <a href="https://www.accuweather.com/en/jp/konohana-ku/219599/daily-weather-forecast/219599?day=20">
+    Sun
+    <time>
+     6/30
+    </time>
+   </a>
+  </th>
+  <td>
+   29¢X/23¢X
+  </td>
+  <td>
+   7
+   <span class="small">
+    mm
+   </span>
+  </td>
+  <td>
+   0
+   <span class="small">
+    CM
+   </span>
+  </td>
+  <td class="forecast-table-cell">
+   <div class="icon i-7-s">
+   </div>
+   <p>
+    Clouds, a t-storm in the area
+   </p>
+  </td>
+  <td>
+   28¢X/21¢X
+  </td>
+ </tr>
+</tbody>
